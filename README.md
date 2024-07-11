@@ -44,7 +44,7 @@ On the Kali machine, we will perform a scan with Nmap to discover active hosts a
 sudo apt-get install nmap
 ```
 
-- [] Basic scan of a target (Replace <debian_IP> with the Debian machine's IP):
+- [ ] Basic scan of a target (Replace <debian_IP> with the Debian machine's IP):
 ```bash
 nmap <IP_debian>
 ```
@@ -58,7 +58,7 @@ nmap -sV <debian_IP>
 ```
 > This option (-sV) allows detection of the version of the service operating on each port.
 
-- [] Detailed scan and vulnerability search:
+- [ ] Detailed scan and vulnerability search:
 ```bash
 nmap -sV --script=vuln <debian_IP>
 ```
