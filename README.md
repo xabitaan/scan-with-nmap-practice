@@ -6,7 +6,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones están [disponibles en Español](https://github.com/breatheco-de/scan-with-nmap-practice)*
+*Estas instrucciones están [disponibles en Español](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/README.es.md)*
 
 ### Before you start...
 
