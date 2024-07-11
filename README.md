@@ -26,7 +26,7 @@ We will identify active hosts, open ports on the network, and which services are
 
 ## 📝 Instructions
 
-* Open this URL and fork the repository https://github.com/breatheco-de/incident-report-for-sql-injection-exercise-project
+* Open this URL and fork the repository https://github.com/breatheco-de/scan-with-nmap-practic
 
  ![fork button](https://github.com/4GeeksAcademy/4GeeksAcademy/blob/master/site/src/static/fork_button.png?raw=true)
 
