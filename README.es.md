@@ -22,9 +22,6 @@
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
-¡No clones este repositorio! solo sigue las intrucciones.
-
-
 En esta práctica, aprenderemos a utilizar Nmap, una herramienta de código abierto ampliamente reconocida para el análisis de redes y la seguridad. Con Nmap llevaremos a cabo escaneos en una máquina objetivo (en este caso, una máquina con Debian) desde una máquina con Kali Linux. 
 
 Identificaremos hosts activos, puertos abiertos en la red y qué servicios están operando en esos puertos, para buscar posibles vulnerabilidades en los servicios detectados y comprender las debilidades de seguridad que pueden existir en la red.

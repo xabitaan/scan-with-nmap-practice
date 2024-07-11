@@ -1,0 +1,24 @@
+{
+	"title": {
+		"us": "Scan ports with nmap",
+		"es": "Escanear puertos con nmap"
+	},
+	"slug": "scan-with-nmap",
+	"description": {
+		"us": "Learn the use of Nmap for network analysis and vulnerability detection.",
+		"es": "Aprende el uso de Nmap para el análisis de redes y la detección de vulnerabilidades."
+	},
+	"preview": "https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/preview-dvwa.jpg?raw=true",
+	"repository": "https://github.com/breatheco-de/scan-with-nmap-practice",
+	"duration": 2,
+	"difficulty": "intermediate",
+	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+	"technologies": ["Nmap", "network security", "vulnerability detection", "cybersecurity"],
+	"delivery":{
+		"instructions": {
+			"en": "Please upload your vulnerability-report.pdf file to your GitHub repository and provide the link to your repository here",
+			"es": "Por favor sube tu archivo vulnerability-report.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí"
+		},
+		"formats": ["text/uri-list"]
+	}
+}
