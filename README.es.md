@@ -90,7 +90,7 @@ ingresa "Apache 2.4.7" en la barra de búsqueda.
 
 - [] Documenta las vulnerabilidades de manera estructurada. Aquí tienes un ejemplo de cómo documentar una vulnerabilidad:
 
-![reporte de vulnerabilidad](assets/report-vul-es.png)
+![reporte de vulnerabilidad](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/report-vul-es.png?raw=true)
 
 ## Entrega de proyecto
 
