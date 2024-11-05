@@ -83,7 +83,7 @@ Use public vulnerability databases to find information about the detected servic
 
 - [ ] Document the vulnerabilities in a structured manner. Here is an example of how to document a vulnerability:
 
-![vulnerability report](assets/report-vul.png)
+![vulnerability report](https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/report-vul.png?raw=true)
 
 ## Delivery
 
